@@ -1,0 +1,15 @@
+/GIT/GeekBrains/core-unit-test/bin/Debug/net7.0/core-unit-test
+/GIT/GeekBrains/core-unit-test/bin/Debug/net7.0/core-unit-test.deps.json
+/GIT/GeekBrains/core-unit-test/bin/Debug/net7.0/core-unit-test.runtimeconfig.json
+/GIT/GeekBrains/core-unit-test/bin/Debug/net7.0/core-unit-test.dll
+/GIT/GeekBrains/core-unit-test/bin/Debug/net7.0/core-unit-test.pdb
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.csproj.AssemblyReference.cache
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.GeneratedMSBuildEditorConfig.editorconfig
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.AssemblyInfoInputs.cache
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.AssemblyInfo.cs
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.csproj.CoreCompileInputs.cache
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.dll
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/refint/core-unit-test.dll
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.pdb
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/core-unit-test.genruntimeconfig.cache
+/GIT/GeekBrains/core-unit-test/obj/Debug/net7.0/ref/core-unit-test.dll
